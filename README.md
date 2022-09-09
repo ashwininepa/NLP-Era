@@ -1,5 +1,5 @@
-# NLP-Era
-This repo consits of ideas related to NLP
+# Natural Language Processing (NLP)
+This repocollects ideas, resources, projects,... related to NLP.
 
 # Resources:
 
