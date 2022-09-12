@@ -1,5 +1,5 @@
 # Natural Language Processing (NLP)
-This repocollects ideas, resources, projects,... related to NLP.
+This repo collects ideas, resources, projects,... related to NLP.
 
 # Resources:
 
