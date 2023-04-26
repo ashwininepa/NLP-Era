@@ -3,7 +3,7 @@ This repo collects ideas, resources, projects,... related to NLP.
 
 # Resources:
 
-* [__An absolut gem: A free deep dive into everything NLP__:](https://www.nlpdemystified.org/) very dense video lectures and great notebooks!
+* [__NLP Demystified__:](https://www.nlpdemystified.org/) An absolut gem! A free deep dive into everything NLP. Very dense video lectures and great notebooks!
 * [__Kaggle:__](https://www.kaggle.com) Community for sharing datasets and machine learning solutions to competitions; also basic courses
 * [__Tensorflow Datasets:__](https://www.tensorflow.org/datasets) Hundreds of well-curated datasets for a variety of tasks that can be downloaded using the TF API.
 * [__Huggingface__:](https://huggingface.co/) Community for hosting ML/DL models; many pretrained language models for all kinds of tasks available
